@@ -1,0 +1,13 @@
+package studyJava;
+
+public class jenkinsrun {
+	
+	
+
+
+	public static void main(String[] args) {
+		
+		System.out.println("I am Vinoth con encting jenkins & GITHUB");
+	}
+
+}
