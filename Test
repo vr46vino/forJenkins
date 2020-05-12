@@ -8,6 +8,8 @@ public class jenkinsrun {
 	public static void main(String[] args) {
 		
 		System.out.println("I am Vinoth con encting jenkins & GITHUB");
+		System.out.println("New 1"); //newly added
+		System.out.println("New 23"); //newly added
 	}
 
 }
